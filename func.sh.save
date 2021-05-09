@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# $0 mean the caller ($1- $9 mean variables)
+printMe(){
+
+    echo "hello irynka $0"
+}
+
+printMe iryna
+
+printMe
+printMe
