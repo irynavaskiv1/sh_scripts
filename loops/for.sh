@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# simple example
+# example - 1
 for i in {8..10}
 do
 	echo "hello $i"
@@ -19,7 +19,7 @@ do
 	echo "file name: $fileName"
 done
 
-#example
+# example - 3
 for i in {1..100}
 do
  if [['$i' -gt '10' && '$i' -le '50']]; then
