@@ -3,6 +3,7 @@
 # $0 mean  caller
 # $1.. var
 # $$ proces id
+
 printMe(){
 
     echo "process id $$"
