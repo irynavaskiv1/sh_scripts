@@ -1,4 +1,5 @@
-#! /bin/bash
+#!/bin/bash
+
 name=ira
 echo name
 fullname="ira vaskiv"

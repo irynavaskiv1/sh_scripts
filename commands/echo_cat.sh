@@ -2,7 +2,7 @@
 
 echo "hello ira" > vaskiv.txt
 
-echo "read file use cat"
+echo "read file using cat"
 cat vaskiv.txt 
 
 while read line
